@@ -1,0 +1,14 @@
+# The server's ID (not strictly neccessary)
+guild_id: "1998790622239788649"
+
+# The channel you want to send all the reactions in
+channel_id: "199829572239788649"
+
+# The reaction you want. Can either be an emoji or if it's a custom emoji "emoji_name:guild_id"
+reaction: "🤨"
+
+# Your discord auth token. Don't reveal this to anyone.
+authorization: "uhdUIAHDSUIFDHI.ADhsua.ASDJASDIOj_adsidioadjioda"
+
+# No idea what this is but it seems important
+super_properties: "some really long random string I think"
